@@ -1,1 +1,1 @@
-<?php include_once("production/index.html"); ?>
+<?php include_once("production/dashboard.html"); ?>
